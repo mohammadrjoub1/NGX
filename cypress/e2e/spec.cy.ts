@@ -8,7 +8,7 @@ describe("MY FIRST SUITE", () => {
 
   })
 
-  it("my first test", () => {
+  it("myy first test", () => {
 
 
   navigationPage.navigateToFormLayouts();
